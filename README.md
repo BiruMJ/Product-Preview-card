@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-html-css-flexbox-abc123)  
-- Live Site URL: [GitHub Pages Live Demo](https://your-username.github.io/product-preview-card/)  
+- Live Site URL: [GitHub Pages Live Demo](https://birumj.github.io/Product-Preview-card/))  
 
 ## My process
 
